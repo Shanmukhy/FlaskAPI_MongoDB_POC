@@ -25,9 +25,8 @@ Make sure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/flask-mongodb-user-api.git
-   cd flask-mongodb-user-api
-````
+   git clone https://github.com/Shanmukhy/FlaskAPI_MongoDB_POC.git
+   cd FlaskAPI_MongoDB_POC
 
 2. **Install dependencies**
 
@@ -42,7 +41,7 @@ Make sure you have the following installed:
    ```
 
    The server will start at: `http://127.0.0.1:5000`
-
+````
 ---
 
 ## 📦 API Endpoints
