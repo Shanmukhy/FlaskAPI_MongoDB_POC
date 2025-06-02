@@ -41,7 +41,7 @@ Make sure you have the following installed:
    ```
 
    The server will start at: `http://127.0.0.1:5000`
-````
+
 ---
 
 ## 📦 API Endpoints
@@ -190,20 +190,4 @@ Make sure you have the following installed:
 * Ensure MongoDB is running locally or update the MongoDB connection URI accordingly.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙋‍♂️ Author
-
-Created by [Your Name](https://github.com/yourusername)
-
-```
-
----
-
-Let me know if you'd like this in a downloadable `.md` file format or if you're planning to deploy it (I can include deployment instructions too).
-```
+````
