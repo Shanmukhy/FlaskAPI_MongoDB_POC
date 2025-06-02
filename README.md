@@ -25,8 +25,8 @@ Make sure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Shanmukhy/FlaskAPI_MongoDB_POC.git
-   cd FlaskAPI_MongoDB_POC
+   git clone https://github.com/Shanmukhy/flask-mongodb-user-api.git
+   cd flask-mongodb-user-api
 
 2. **Install dependencies**
 
